@@ -12,11 +12,11 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Adarsh Kumar</h1>
-<h3 align="center">A passionate Cyber Security Enthusiast from India and I also like to do frontend web Development.</h3>
+<h3 align="center">A passionate Cyber Security Enthusiast from India and I also like to do frontend web Development </h3>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=adarsh275&label=Profile%20views&color=0e75b6&style=flat" alt="adarsh275" /> </p>
-- 🔭 I’m currently working as **Cyber Security Intern** at acmegrade
+- 🔭 I’m currently working on **Cyber Security Intern** at acmegrade
 - 🌱 I’m currently learning **Penetration Testing**
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=adarsh275&label=Profile%20views&color=0e75b6&style=flat" alt="adarsh275" /></p>
 <img align='right' src="https://cdn.dribbble.com/users/1068771/screenshots/14225432/media/0da8c461ba3920a8c827d864a6e051ed.jpg" width="280">
 
 <h3 align="left">📩 Connect with me:</h3>
