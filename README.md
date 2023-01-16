@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Cyber Security Intern** at acmegrade
 - 🌱 I’m currently learning **Penetration Testing**
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=adarsh275&label=Profile%20views&color=0e75b6&style=flat" alt="adarsh275" /></p>
+
+<p align="right"><img src="https://komarev.com/ghpvc/?username=adarsh275&label=Profile%20views&color=0e75b6&style=flat" alt="adarsh275" /></p>
+
 <img align='right' src="https://cdn.dribbble.com/users/1068771/screenshots/14225432/media/0da8c461ba3920a8c827d864a6e051ed.jpg" width="280">
 
 <h3 align="left">📩 Connect with me:</h3>
@@ -58,6 +60,14 @@ Here are some ideas to get you started:
 </p>
 <hr></hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adarsh275&show_icons=true&locale=en&layout=compact" alt="adarsh275" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adarsh275&show_icons=true&locale=en&layout=compact" alt="adarsh275" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adarsh275&show_icons=true&locale=en" alt="adarsh275" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adarsh275&show_icons=true&locale=en" alt="adarsh275" /></p> -->
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Adarsh275&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Adarsh275&theme=vision-friendly-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh275&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Adarsh275&theme=radical&no-frame=false&no-bg=false&margin-w=5)
